@@ -1,7 +1,11 @@
 # DBMS_SQL-Notes
 DBMS_SQL Notes
 
-- GitHub Repo : https://github.com/riti2409/DBMS_SQL-Notes
+- GitHub Repo :
+      - https://github.com/riti2409/DBMS_SQL-Notes    [For SQL Practice]
+  `   - https://github.com/aryanawasthi/Database-Management-Projects  [ For DBMS Projects]
+      - https://github.com/aryanawasthi/Twitter_Data_Pipeline_Using_Airflow     [ For Data Engineering Projects]
+- 
 
 - Source : https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y (Gate Smashers)
 
@@ -19,5 +23,7 @@ DBMS_SQL Notes
 1) [Geeks for geeks](https://www.geeksforgeeks.org/sql-tutorial/)
 2) [w3-schools](https://www.w3schools.com/sql/)
 3) [tutorials Point](https://www.tutorialspoint.com/sql/index.htm)
+4) [W3 Resource]--  (https://www.w3resource.com/sql-exercises/)
+5)  
 
 Would love if you add more in the list :)
